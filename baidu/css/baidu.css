@@ -1,0 +1,18 @@
+.layui-nav
+{position:relative;
+padding:0 20px;
+background-color:#393D49;
+color:#fff;
+border-radius:2px;
+font-size:0;
+box-sizing:
+border-box
+}
+ .layui-nav-item
+ {position:relative;display:inline-block;*display:inline;*zoom:1;vertical-align:middle;line-height:60px}
+.layui-nav-item
+    {display:block;width:100%;line-height:45px}
+  .layui-badge
+  {height:18px;line-height:18px}
+  .layui-badge-dot
+  {width:8px;height:8px;padding:0;border-radius:50%}
